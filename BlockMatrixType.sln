@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockMatrixType", "BlockMatrixType.csproj", "{887E5852-7AAA-4D06-8613-7EA9575B4604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlockMatrix", "..\TestBlockMatrix\TestBlockMatrix.csproj", "{4CEA9915-88AB-4288-AF5D-C176C1AFD62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887E5852-7AAA-4D06-8613-7EA9575B4604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887E5852-7AAA-4D06-8613-7EA9575B4604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887E5852-7AAA-4D06-8613-7EA9575B4604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887E5852-7AAA-4D06-8613-7EA9575B4604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEA9915-88AB-4288-AF5D-C176C1AFD62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEA9915-88AB-4288-AF5D-C176C1AFD62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEA9915-88AB-4288-AF5D-C176C1AFD62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEA9915-88AB-4288-AF5D-C176C1AFD62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625CD0BE-FDE6-4341-A271-320C8E31D330}
+	EndGlobalSection
+EndGlobal

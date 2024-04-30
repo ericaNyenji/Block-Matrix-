@@ -1,0 +1,14 @@
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.AssemblyInfoInputs.cache
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.AssemblyInfo.cs
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.csproj.CoreCompileInputs.cache
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\bin\Debug\net8.0\BlockMatrixType.exe
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\bin\Debug\net8.0\BlockMatrixType.deps.json
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\bin\Debug\net8.0\BlockMatrixType.runtimeconfig.json
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\bin\Debug\net8.0\BlockMatrixType.dll
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\bin\Debug\net8.0\BlockMatrixType.pdb
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.dll
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\refint\BlockMatrixType.dll
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.pdb
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\BlockMatrixType.genruntimeconfig.cache
+C:\Users\nyenj\Documents\OOP 2024\BlockMatrixType\obj\Debug\net8.0\ref\BlockMatrixType.dll

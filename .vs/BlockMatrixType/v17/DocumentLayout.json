@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887E5852-7AAA-4D06-8613-7EA9575B4604}|BlockMatrixType.csproj|c:\\users\\nyenj\\documents\\oop 2024\\blockmatrixtype\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E5852-7AAA-4D06-8613-7EA9575B4604}|BlockMatrixType.csproj|solutionrelative:block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887E5852-7AAA-4D06-8613-7EA9575B4604}|BlockMatrixType.csproj|c:\\users\\nyenj\\documents\\oop 2024\\blockmatrixtype\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E5852-7AAA-4D06-8613-7EA9575B4604}|BlockMatrixType.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887E5852-7AAA-4D06-8613-7EA9575B4604}|BlockMatrixType.csproj|c:\\users\\nyenj\\documents\\oop 2024\\blockmatrixtype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E5852-7AAA-4D06-8613-7EA9575B4604}|BlockMatrixType.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEA9915-88AB-4288-AF5D-C176C1AFD62B}|..\\TestBlockMatrix\\TestBlockMatrix.csproj|c:\\users\\nyenj\\documents\\oop 2024\\testblockmatrix\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:27:32.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\Block.cs",
+              "RelativeDocumentMoniker": "Block.cs",
+              "ToolTip": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\Block.cs",
+              "RelativeToolTip": "Block.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:30:46.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nyenj\\Documents\\OOP 2024\\BlockMatrixType\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:24:28.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nyenj\\Documents\\OOP 2024\\TestBlockMatrix\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestBlockMatrix\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nyenj\\Documents\\OOP 2024\\TestBlockMatrix\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestBlockMatrix\\UnitTest1.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAqwOwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:29:00.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
