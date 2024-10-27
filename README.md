@@ -9,4 +9,4 @@ Adding two matrices.
 
 Multiplying two matrices.
 
-Printing the matrix (in a square shape.
+Printing the matrix (in a square shape).
