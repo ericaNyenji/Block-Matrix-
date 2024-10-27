@@ -7,6 +7,6 @@ Getting the entry located at index (i, j).
 
 Adding two matrices.
 
-Mltiplying two matrices.
+Multiplying two matrices.
 
 Printing the matrix (in a square shape.
